@@ -1,6 +1,6 @@
 # Projects
 
-1. Group Project(Educom)
+1. Educom
    
 2. 2048
 
